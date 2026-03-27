@@ -5,7 +5,7 @@ A Unity-based interactive 3D scene designed to explore player controls, object i
 ---
 
 ## 📸 Project Snapshot
-![Scene Preview](./assets/Screenshot (7).png)
+![Scene Preview](./assets/Screenshot(7).png)
 *A snapshot of the 3D environment*
 
 ---
